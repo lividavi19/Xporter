@@ -1,4 +1,4 @@
-# Data Exporter
+# Xporter
 This is a utility script that will help packaging and readying the Excel data for further user, such as saving it to a MySQL database.
 
 ## Installation
