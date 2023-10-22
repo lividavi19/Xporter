@@ -1,5 +1,5 @@
-# Xporter
-This is a utility script that will help packaging and readying the Excel data for further user, such as saving it to a database.
+# Data Exporter
+This is a utility script that will help packaging and readying the Excel data for further user, such as saving it to a MySQL database.
 
 ## Installation
 To start exporting Excel data include the `Xporter.php` file in you code. This file has utility functions that supports exporting data from excel files. Such methods are :point_down:
@@ -51,8 +51,8 @@ Ensure the value entered in the excel cells are of the correct data type as the 
 > For instance dates data types.
 > Make sure dates are correctly formatted.
 
-## Developer
+### Developer
 In case of further assistance using this script, hit me up via contacts below :point_down:
-> Livingstone
-> +255 687 949 808
-> lividavi19@gmail.com
+*Livingstone*
+- +255 687 949 808
+- lividavi19@gmail.com
