@@ -52,7 +52,7 @@ Ensure the value entered in the excel cells are of the correct data type as the 
 > Make sure dates are correctly formatted.
 
 ### Developer
-In case of further assistance using this script, hit me up via contacts below :point_down:
-*Livingstone*  
+In case of further assistance using this script, hit me up via contacts below :point_down:  
+*Livingstone*
 - +255 687 949 808
 - lividavi19@gmail.com
