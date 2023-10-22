@@ -53,6 +53,6 @@ Ensure the value entered in the excel cells are of the correct data type as the 
 
 ### Developer
 In case of further assistance using this script, hit me up via contacts below :point_down:
-> Livingstone
+> Livingstone  
 - +255 687 949 808
 - lividavi19@gmail.com
